@@ -1,1 +1,2 @@
 # PPOvsSAC
+Research suggests that the top two most used reinforcement learning algorithms in robotics applications are Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC), due to their effectiveness in continuous control tasks. It seems likely that PPO is more widely used in simulation, while SAC is preferred for real-world robotics due to its sample efficiency and off-policy nature. This work tries to compare the performance of these two popular algorithms across different robotics based reinforcement learning environments
